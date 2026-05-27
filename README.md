@@ -15,9 +15,8 @@ This project models stochastic mRNA expression using a simplified gene activatio
 - Pandas
 
 ## Files
-- `code/` contains the simulation code
-- `figures/` contains output graphs
-- `report/` contains the written project report
+- `code/` contains the simulation code as well as figures
+- `report/` contains the written project report and analysis
 
 ## How to Run
 Install dependencies:
