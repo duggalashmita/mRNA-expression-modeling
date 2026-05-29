@@ -1,6 +1,6 @@
 # mRNA Expression Modeling Project
 
-This project models stochastic mRNA expression using a simplified gene activation/inactivation framework inspired by Raj et al. (2006). The goal was to simulate how changes in transcriptional activation and degradation rates affect mRNA expression patterns over time.
+This project models stochastic mRNA expression using a simplified gene activation/inactivation framework inspired by George and Levine (2018). The goal was to simulate how changes in transcriptional activation and degradation rates affect mRNA expression patterns over time.
 
 ## Project Overview
 - Built a computational model of mRNA expression dynamics
